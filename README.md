@@ -1,2 +1,5 @@
+<<<<<<< HEAD
+"booya" 
+=======
 Thanks for the trianing
-i really appreciate
+>>>>>>> parent of bc844d7... Third commit
